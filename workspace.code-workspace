@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "E-Commerce-Back-End",
+			"path": "."
+		},
+		{
+			"name": "Assets",
+			"path": "..\\..\\e-commerce-backend-main\\Assets"
+		}
+	],
+	"settings": {}
+}
