@@ -42,5 +42,5 @@ This app is the backend portion of an E-Commerce website. Express.js was used fo
 
 ## Installation and Technology used
 
-
+Node, Express, Sequelize, JavaScript, Insomnia requests
 
