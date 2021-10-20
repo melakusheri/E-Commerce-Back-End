@@ -17,7 +17,6 @@
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  
   ## Walkthroughs video
   
    https://drive.google.com/file/d/1O7ljCMLXgkKsjBItf7h5gJUsPheFhzaU/view
